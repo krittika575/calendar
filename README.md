@@ -1,10 +1,29 @@
-# Getting Started with Create React App
+# Calendar Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, interactive calendar application built with React that allows users to manage events and appointments efficiently.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+Visit the live application at [https://krittika575.github.io/calender](https://krittika575.github.io/calender)
+
+## Features
+
+- Interactive calendar interface with monthly view
+- Event creation and management
+- Event search functionality
+- Sidebar for quick navigation
+- Responsive design
+- Modern UI with clean aesthetics
+
+## Technologies Used
+
+- React
+- Tailwind CSS
+- GitHub Pages for deployment
+
+## Getting Started
+
+To run this project locally, follow these steps:
 
 ### `npm start`
 
@@ -53,19 +72,31 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Components
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. **Calendar.jsx**: Main calendar view component
+2. **EventCard.jsx**: Displays individual event information
+3. **EventForm.jsx**: Form for creating and editing events
+4. **EventModal.jsx**: Modal for event details
+5. **SearchBar.jsx**: Event search functionality
+6. **Sidebar.jsx**: Navigation and quick actions
 
-### Advanced Configuration
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-### Deployment
+## Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+The application is deployed using GitHub Pages. To deploy new changes:
 
-### `npm run build` fails to minify
+1. Ensure your changes are committed to the repository
+2. Run `npm run deploy`
+3. Visit [https://krittika575.github.io/calender](https://krittika575.github.io/calender) to see the deployed changes
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# calendar" 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
