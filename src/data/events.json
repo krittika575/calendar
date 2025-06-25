@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Daily Standup",
+    "date": "2025-06-25",
+    "startTime": "10:00",
+    "endTime": "10:30",
+    "color": "#6c5ce7"
+  },
+  {
+    "id": 2,
+    "title": "Client Meeting",
+    "date": "2025-06-25",
+    "startTime": "10:15",
+    "endTime": "11:00",
+    "color": "#00cec9"
+  },
+  {
+    "id": 3,
+    "title": "Design Review",
+    "date": "2025-06-25",
+    "startTime": "11:30",
+    "endTime": "12:30",
+    "color": "#fab1a0"
+  }
+]
